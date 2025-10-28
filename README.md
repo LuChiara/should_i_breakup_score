@@ -18,6 +18,10 @@ The score takes the sum of all weighed positive traits and negative traits and i
 | $\\geq 90\\%$       | 🌲 Excellent performance! Keep growing the relationship     |
 
 
+## Features in development:
+* Dashboard of feature importances
+* Multi player mode
+
 This work was inspired by an Instagram influencer: hybeereviews.
 
 
