@@ -22,6 +22,8 @@ The score takes the sum of all weighed positive traits and negative traits and i
 ## Screenshots:
 
 <img width="934" height="404" alt="traits_bubble_chart" src="https://github.com/user-attachments/assets/36765987-580d-483f-9a8c-2a256e763bf9" />
+<img width="934" height="404" alt="populated_bubble_chart" src="https://github.com/user-attachments/assets/8a0c172e-44db-4ca9-9a38-1086c9608031" />
+
 <img width="974" height="260" alt="traits_table" src="https://github.com/user-attachments/assets/d8de253d-1484-4709-aeaf-813d57706a57" />
 
 <br><br>
