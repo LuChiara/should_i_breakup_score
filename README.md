@@ -1,6 +1,6 @@
 # Should I break up?
 
-The Should-I-Break-Up Score is a quantitative method designed to help you determine whether you should leave your partner. It can be applied not only to romantic relationships but also to friendships, colleagues — you name it!
+The Should-I-Breakup Score is a quantitative method designed to help you determine whether you should leave your partner. It can be applied not only to romantic relationships but also to friendships, colleagues — you name it!
 
 This is the formula that I adopted:
 
