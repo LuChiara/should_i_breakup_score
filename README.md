@@ -29,7 +29,7 @@ The score takes the sum of all weighed positive traits and negative traits and i
 <br><br>
 ## Features in development:
 * ✅ Dashboard of feature importances (updated: Oct 2025)
-* Multi player mode
+* ✅ Multi player mode (updated: Nov 2025)
 
 This work was inspired by an Instagram influencer: hybeereviews.
 
